@@ -1,6 +1,6 @@
 import React from "react";
 import "./index.css";
-import Challenge from "./Challenge.jsx"; 
+import Challenge from "./Challenge"; 
 
 function App() {
   return (
